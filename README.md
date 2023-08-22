@@ -1,12 +1,12 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=Wave&color=ff4040&height=120&section=header&text=&fontSize=18&fontColor=fff&animation=twinkling&fontAlignY=15"/>&nbsp;
+<img width=100% src="https://capsule-render.vercel.app/api?type=Wave&color=993399&height=120&section=header&text=&fontSize=18&fontColor=fff&animation=twinkling&fontAlignY=15"/>&nbsp;
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff4040&size=35&center=true&vCenter=true&width=1200&lines=Hi+there!+Welcome+to+my+Github+profile.;I+am+Mariana+Ribeiro.+and+I'm+a+passionate+Node+developer.;How+about+we+talk+about+opportunities?;Let's+go+:%29)](https://git.io/typing-svg)&nbsp;
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=993399&size=35&center=true&vCenter=true&width=1200&lines=Hi+there!+Welcome+to+my+Github+profile.;I+am+Mariana+Ribeiro.+and+I'm+a+passionate+Node+developer.;How+about+we+talk+about+opportunities?;Let's+go+:%29)](https://git.io/typing-svg)&nbsp;
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=maricsribeiro&show_icons=true&count_private=true&hide_border=true&title_color=ff4040&icon_color=ff4040&text_color=c9d1d9&bg_color=0d1117" alt="Ramir Junior github stats" />  
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maricsribeiro&layout=compact&hide_border=true&title_color=ff4040text_color=ff4040&bg_color=0d1117" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=maricsribeiro&show_icons=true&count_private=true&hide_border=true&title_color=993399&icon_color=993399&text_color=c9d1d9&bg_color=0d1117" alt="Mariana Ribeiro github stats" />  
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maricsribeiro&layout=compact&hide_border=true&title_color=993399&text_color=ff4040&bg_color=0d1117" /> 
   <img align = "center" style="max-width: 50%;" title="How can I help you? Let's talk about" src="assets/icon-profile.svg"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img align = "center" style="max-width: 100%;" title="Mariana Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=MarianaCarvTeixeira&theme=dark">
+  <img align = "center" style="max-width: 100%;" title="Mariana Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=maricsribeiro&theme=dark">
 
 </div>&nbsp;
 
@@ -90,4 +90,4 @@
 </div>&nbsp;
 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff4040&height=180&section=header&text=&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/> 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=993399&height=180&section=header&text=&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/> 
