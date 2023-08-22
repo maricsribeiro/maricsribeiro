@@ -4,28 +4,26 @@
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=maricsribeiro&show_icons=true&count_private=true&hide_border=true&title_color=993399&icon_color=993399&text_color=c9d1d9&bg_color=0d1117" alt="Mariana Ribeiro github stats" />  
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maricsribeiro&layout=compact&hide_border=true&title_color=993399&text_color=ff4040&bg_color=0d1117" /> 
-  <img align = "center" style="max-width: 50%;" title="How can I help you? Let's talk about" src="assets/icon-profile.svg"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maricsribeiro&layout=compact&hide_border=true&title_color=993399&text_color=FFFFFF&bg_color=0d1117" /> 
+  <img align = "left" width="40%" style="max-width: 50%;" title="How can I help you? Let's talk about" src="assets/node-image.png"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img align = "center" style="max-width: 100%;" title="Mariana Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=maricsribeiro&theme=dark">
 
 </div>&nbsp;
 
 
-================
+<hr />
 ### Skills:
 <div style="display: inline-block">
 
-<img align = "center" alt="html5" src="https://img.shields.io/badge/Kotlin-0D1117?style=for-the-badge&logo=kotlin&labelColor=0D1117">
+<img align = "center" alt="html5" src="https://img.shields.io/badge/node.js-0D1117?style=for-the-badge&logo=node.js&logoColor=6DA55F">
 
-<img align = "center" alt="html5" src="https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=java&logoColor=1D6346">
+<img align = "center" alt="html5" src="https://img.shields.io/badge/typescript-0D1117.svg?style=for-the-badge&logo=typescript&logoColor=31A8FF">
 
 <img align = "center" alt="html5" src="https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117">
 
 <img align = "center" alt="html5" src="https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=5C70DB">
 
 <img align = "center" alt="html5" src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-
-<img align = "center" alt="html5" src="https://img.shields.io/badge/Firebase-0D1117?style=for-the-badge&logo=Firebase&logoColor=039BE5">
 
 <img align = "center" alt="html5" src="https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117">
 
@@ -50,11 +48,9 @@
 <div style="display: inline-block">
 <img align = "center" alt="html5" src="https://img.shields.io/badge/Postgresql-0D1117?style=for-the-badge&logo=postgresql&logoColor=1b7fac">
 
-<img align = "center" alt="html5" src="https://img.shields.io/badge/c%23-0D1117?style=for-the-badge&logo=c-sharp&logoColor=239120">
+<img align = "center" alt="html5" src="https://img.shields.io/badge/heroku-0D1117.svg?style=for-the-badge&logo=heroku&logoColor=9999FF">
 
 <img align = "center" alt="html5" src="https://img.shields.io/badge/Postman-0D1117?style=for-the-badge&logo=postman&logoColor=FF6C37">
-
-<img align = "center" alt="html5" src="https://img.shields.io/badge/node.js-0D1117?style=for-the-badge&logo=node.js&logoColor=6DA55F">
 
 <img align = "center" alt="html5" src="https://img.shields.io/badge/bootstrap-0D1117?style=for-the-badge&logo=bootstrap&logoColor=purple">
 
@@ -69,7 +65,8 @@
 
 <img align = "center" alt="html5" src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-0D1117?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=9999FF">
 
-<img align = "center" alt="html5" src="https://img.shields.io/badge/Adobe%20After%20Effects-0D1117?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=9999FF">
+<img align = "center" alt="html5" src="https://img.shields.io/badge/figma-0D1117.svg?style=for-the-badge&logo=figma&logoColor=9999FF">
+
 
 </div>&nbsp;
 
@@ -78,13 +75,9 @@
 - :us: English (B1).
 
 <div style="display: inline-block"; align="center">
-<h2>Redes Sociais:</h2>
 
 <a href="https://www.linkedin.com/in/marianaribeiro-"> 
          <img target="_blank" alt="Mariana Ribeiro | Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/marianaribeiro-" />
-    </a>
-    <a href="https://instagram.com/mari_rbeiro_"> 
-        <img  alt="@mari_rbeiro_ | Instagram"  src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://instagram.com/mari_rbeiro_"/>
     </a>
 
 </div>&nbsp;
