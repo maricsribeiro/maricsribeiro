@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=Wave&color=993399&height=120&section=header&text=&fontSize=18&fontColor=fff&animation=twinkling&fontAlignY=15"/>&nbsp;
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=993399&size=35&center=true&vCenter=true&width=1200&lines=Hi+there!+Welcome+to+my+Github+profile.;I+am+Mariana+Ribeiro.+and+I'm+a+passionate+Node+developer.;How+about+we+talk+about+opportunities?;Let's+go+:%29)](https://git.io/typing-svg)&nbsp;
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=993399&size=35&center=true&vCenter=true&width=1200&lines=Hey+You!+Welcome+to+my+Github+profile.;I+am+Mariana+Ribeiro+and+I'm+a+passionate+Node+developer.;How+about+we+talk+about+opportunities?;Let's+go+:%29)](https://git.io/typing-svg)&nbsp;
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=maricsribeiro&show_icons=true&count_private=true&hide_border=true&title_color=993399&icon_color=993399&text_color=c9d1d9&bg_color=0d1117" alt="Mariana Ribeiro github stats" />  
