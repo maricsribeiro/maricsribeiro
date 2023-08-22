@@ -10,6 +10,16 @@
 
 </div>&nbsp;
 
+sql
+Jest
+express js
+mongo
+oracle
+sequelize
+bitbucket
+aws
+
+
 
 <hr />
 </div>&nbsp;
@@ -28,14 +38,16 @@
 
 <img align = "center" alt="html5" src="https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117">
 
+<img align = "center" alt="html5" src="https://img.shields.io/badge/bitbucket-0D1117.svg?style=for-the-badge&logo=bitbucket&logoColor=0D1117">
+
+
+
 </div>&nbsp;
 
 ### IDE/Tools:
 <div style="display: inline-block">
 
 <img align = "center" alt="html5" src="https://img.shields.io/badge/Android%20Studio-0D1117?style=for-the-badge&logo=android-studio&logoColor=0f9d58">
-
-<img align = "center" alt="html5" src="https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white">
 
 <img align = "center" alt="html5" src="https://img.shields.io/badge/NetBeans%20IDE-0D1117?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white">
 
