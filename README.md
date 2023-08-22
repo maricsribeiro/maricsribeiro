@@ -5,13 +5,14 @@
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=maricsribeiro&show_icons=true&count_private=true&hide_border=true&title_color=993399&icon_color=993399&text_color=c9d1d9&bg_color=0d1117" alt="Mariana Ribeiro github stats" />  
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maricsribeiro&layout=compact&hide_border=true&title_color=993399&text_color=FFFFFF&bg_color=0d1117" /> 
-  <img align = "left" width="40%" style="max-width: 50%;" title="How can I help you? Let's talk about" src="assets/node-image.png"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img align = "left" width="30%" style="max-width: 50%;" title="How can I help you? Let's talk about" src="assets/node-image.png"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img align = "center" style="max-width: 100%;" title="Mariana Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=maricsribeiro&theme=dark">
 
 </div>&nbsp;
 
 
 <hr />
+</div>&nbsp;
 ### Skills:
 <div style="display: inline-block">
 
